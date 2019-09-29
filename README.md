@@ -1,4 +1,4 @@
-# dwblr
+# Developer Weekend Bangalore 2019
 Codes for Developer Weekend Bangalore 2019
 
 # github.com/arkaprovaz/dwblr
